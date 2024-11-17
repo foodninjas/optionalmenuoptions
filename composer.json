@@ -1,0 +1,22 @@
+{
+  "name": "foodninjas/optionalmenuoptions",
+  "type": "tastyigniter-extension",
+  "description": "This extension allows you to add optional menu options to your menu items.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "FoodNinjas Ltd"
+    }
+  ],
+  "extra": {
+    "tastyigniter-extension": {
+      "code": "foodninjas.optionalmenuoptions",
+      "name": "Optional Menu Options",
+      "icon": {
+        "class": "fa fa-check-square",
+        "backgroundColor": "#908c41",
+        "color": "#FFF"
+      }
+    }
+  }
+}
